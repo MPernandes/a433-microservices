@@ -1,0 +1,12 @@
+Attaching to item-app, item-db
+item-app  | [0mGET / [32m200 [0m1230.637 ms - 785[0m
+item-app  | [0mGET /javascripts/dist/dist.min.js [32m200 [0m34.618 ms - 186999[0m
+item-app  | [0mGET /stylesheets/style.css [32m200 [0m71.502 ms - 519[0m
+item-app  | [0mGET /api [32m200 [0m20.895 ms - 2[0m
+item-app  | [0mGET / [36m304 [0m1.077 ms - -[0m
+item-app  | [0mGET /stylesheets/style.css [36m304 [0m2.872 ms - -[0m
+item-app  | [0mGET /javascripts/dist/dist.min.js [36m304 [0m0.705 ms - -[0m
+item-app  | [0mGET /api [36m304 [0m3.633 ms - -[0m
+item-db   | 2025-05-18T00:25:10.420+0000 I STORAGE  [conn1] createCollection: accumulator.documents with generated UUID: e4506c20-d130-46a3-a8cc-f41bd4b341fa
+item-app  | [0mPOST /api [32m201 [0m202.052 ms - 76[0m
+item-app  | [0mPOST /api [32m201 [0m2.421 ms - 75[0m
